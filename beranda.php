@@ -2,7 +2,7 @@
 
 $nama = $_POST['nama'];
 
-echo "<h1>Welcome $nama";
+echo "<h1> Halo $nama";
 
 
 ?>
